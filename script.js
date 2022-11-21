@@ -24,8 +24,3 @@ window.addEventListener("scroll", () => {
         document.querySelector('.row.project-4').style.opacity = 0;
     }
 });
-
-const a = document.querySelector('.button-lets-talk');
-a.addEventListener('click', (e) => {
-    // e.preventDefault();
-})
