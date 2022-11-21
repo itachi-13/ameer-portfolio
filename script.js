@@ -1,5 +1,4 @@
 window.addEventListener("scroll", () => {
-    console.log(window.scrollY);
     if (window.scrollY > 250) {
         document.querySelector('.row.project-1').style.opacity = 1;
     } else {

@@ -376,6 +376,15 @@ form .btn:focus {
     box-shadow: none;
 }
 
+/* Contact Page 
+====================================== */
+.close-icon {
+    background-image: url(./img/close-icon.svg);
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+}
+
 @media (max-width: 1199px) {
     .check-out-my {
         transform: translate(-450px, -30px);
