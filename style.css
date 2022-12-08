@@ -224,7 +224,10 @@ body {
     font-weight: 600;
     font-size: 56px;
     width: 400px;
+    color: #ffa500;
+    color: #ffc800;
     color: #01034a;
+    /* FF5925 */
 }
 
 #work h2+p {
@@ -283,12 +286,12 @@ body {
     border: 1px solid black;
 }
 
-.sneakers-laptob {
-    background-image: url(./img/sneakers-laptob.png);
+.kick-off-laptob {
+    background-image: url(./img/kick-off-laptob.png);
 }
 
-.sneakers-phone {
-    background-image: url(./img/sneakers-phone.jpg);
+.kick-off-phone {
+    background-image: url(./img/kick-off-phone.jpg);
 }
 
 .calculator-laptob {
