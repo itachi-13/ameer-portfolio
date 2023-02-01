@@ -23,3 +23,4 @@ window.addEventListener("scroll", () => {
         document.querySelector('.row.project-4').style.opacity = 0;
     }
 });
+//updated
