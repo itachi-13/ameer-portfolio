@@ -317,7 +317,7 @@ body {
 
 #contact {
     padding-top: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     text-align: center;
 }
 
@@ -339,6 +339,7 @@ label {
     border: none;
     background-color: #f9f9fb;
     border-radius: 5px;
+    border: 2px solid white;
 }
 
 .form-control:hover {
@@ -374,6 +375,26 @@ form .btn:hover {
 
 form .btn:focus {
     box-shadow: none;
+}
+
+footer {
+    background-color: #020628;
+    color: white;
+    padding: 75px 0;
+}
+
+footer .contact div:first-child {
+    border-right: 1px solid #aaa;
+    text-align: right;
+}
+
+footer img {
+    max-width: 20px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
 
 /* Contact Page 
@@ -539,6 +560,15 @@ form .btn:focus {
     .project-photo-phone::before {
         height: 10px;
         border-radius: 0 0 10px 10px;
+    }
+
+    footer {
+        padding: 50px 0;
+    }
+
+    footer .contact div:first-child {
+        border: none;
+        text-align: left;
     }
 }
 
