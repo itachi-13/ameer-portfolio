@@ -291,6 +291,14 @@ body {
     background-image: url(./img/kick-off-phone.jpg);
 }
 
+.weather-laptob {
+    background-image: url(./img/weather-laptob.png);
+}
+
+.weather-phone {
+    background-image: url(./img/weather-phone.jpg);
+}
+
 .calculator-laptob {
     background-image: url(./img/calculator-laptob.png);
 }
@@ -305,14 +313,6 @@ body {
 
 .credit-card-phone {
     background-image: url(./img/credit-card-phone.jpg);
-}
-
-.time-tracker-laptob {
-    background-image: url(./img/time-tracker-laptob.png);
-}
-
-.time-tracker-phone {
-    background-image: url(./img/time-tracker-phone.jpg);
 }
 
 #contact {
