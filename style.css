@@ -894,7 +894,7 @@ footer a {
 }
 
 /* Contact Page 
-====================================== */
+======================================= */
 .close-icon {
   background-image: url(./img/close-icon.svg);
   width: 20px;
@@ -904,7 +904,7 @@ footer a {
 }
 
 /* Scrolling animation 
-====================================== */
+======================================= */
 .scrolling-animation {
   transform: translateY(25%);
   opacity: 0;
